@@ -1,0 +1,1 @@
+KISSY.add("kg/new-tab/1.0.0/lib/main",["node","base"],function(n,e,a,i){var t=(e("node").all,e("base"));i.exports=t.extend({initializer:function(){}},{ATTRS:{}})});
